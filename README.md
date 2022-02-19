@@ -1,8 +1,7 @@
 
-# Baby steps
+# Software engineering in ALX
 
-This is the first project I'm doing as a software engineer
-
+These will be my guided steps as a software engineer
 ## 🚀 About Me
-I'm a full stack developer...
+I'm an aspiring blockchain developer...
 
